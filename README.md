@@ -1,4 +1,4 @@
-# TIKTOK VIDEO CLONER
+# TIKTOK VIDEO CLONER - Basic Layout
 
 This project was developed in order to improve the front-end.
 
