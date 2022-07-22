@@ -1,5 +1,5 @@
 import './App.css';
-import VideoTikoteko from './components/VideoTikoteko';
+import VideoTikoteko from './components/TikTokVideo';
 
 function App() {
   return (
