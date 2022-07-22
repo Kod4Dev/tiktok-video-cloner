@@ -32,7 +32,7 @@ video {
 .icons-right {
   position: absolute;
   right: 0;
-  bottom: 90px;
+  bottom: 60px;
   display: flex;
   flex-direction: column;
   padding: 15px;
@@ -43,7 +43,7 @@ video {
   height: 30px;
   border-radius: 50%;
   border: 1px solid white;
-  margin: 8px 0 ;
+  margin: 8px 0;
 }
 
 .icons-bottom {
