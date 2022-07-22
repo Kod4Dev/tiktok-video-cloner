@@ -1,0 +1,12 @@
+import './App.css';
+import VideoTikoteko from './components/VideoTikoteko';
+
+function App() {
+  return (
+    <div className="App">
+      <VideoTikoteko titulo="De boa na praia comigo mesmo" nome="@eichenberg_arthur"/>
+    </div>
+  );
+}
+
+export default App;
